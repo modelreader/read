@@ -360,6 +360,7 @@
         height: 100%;    
         position: relative;
         .bookpage-footer-btn{
+            display: block;
             @include center;
             margin: auto;
             width: 1.4rem;

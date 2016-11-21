@@ -182,7 +182,7 @@ p, b, i, div, span, input, a {
     text-align: center;
     margin: auto;
     color: #fff;
-    background-image: url("../imgs/header/h_03.png");
+    background-image: url("../../../imgs/header/h_03.png");
     background-position: center center;
     background-repeat: no-repeat; }
     .bookcase-header .bookcase-header-title h3 {
@@ -240,7 +240,7 @@ p, b, i, div, span, input, a {
     left: 0;
     right: 0;
     margin: auto;
-    background: url("../imgs/c1/c1_03.png") no-repeat 0 0;
+    background: url("../../../imgs/c1/c1_03.png") no-repeat 0 0;
     background-size: 100%; }
   .BookCity-header .classify {
     width: 1.65rem;
@@ -257,15 +257,15 @@ p, b, i, div, span, input, a {
       color: rgba(255, 255, 255, 0.6);
       transform: scale(0.8); }
   .BookCity-header .classify:nth-of-type(1) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.1rem; }
   .BookCity-header .classify:nth-of-type(2) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.35rem; }
   .BookCity-header .classify:nth-of-type(3) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.2rem; }
   .BookCity-header .BookCity-header-title {
@@ -280,7 +280,7 @@ p, b, i, div, span, input, a {
     text-align: center;
     margin: auto;
     color: #fff;
-    background-image: url("../imgs/header/h_03.png");
+    background-image: url("../../../imgs/header/h_03.png");
     background-position: center 0.55rem;
     background-repeat: no-repeat; }
     .BookCity-header .BookCity-header-title h3 {
@@ -315,7 +315,7 @@ p, b, i, div, span, input, a {
       display: block;
       width: 100%; }
   .BookCity-footer .bookChange:nth-of-type(1) {
-    background-image: url("../imgs/c3/c1_xz.png");
+    background-image: url("../../../imgs/c3/c1_xz.png");
     border-left: 1px solid #717171;
     border-right: 1px solid #717171; }
 
@@ -336,7 +336,7 @@ p, b, i, div, span, input, a {
     text-align: center;
     margin: auto;
     color: #fff;
-    background-image: url("../imgs/header/h_03.png");
+    background-image: url("../../../imgs/header/h_03.png");
     background-position: center 0.55rem;
     background-repeat: no-repeat; }
     .mine-header .mine-header-title h3 {
@@ -351,7 +351,7 @@ p, b, i, div, span, input, a {
 .mine-change {
   width: 5.71rem;
   height: 0.84rem;
-  background: url("../imgs/d6/b4_03.png") no-repeat 0 0;
+  background: url("../../../imgs/d6/b4_03.png") no-repeat 0 0;
   background-size: 100%; }
   .mine-change .change {
     width: 100%;
@@ -370,7 +370,7 @@ p, b, i, div, span, input, a {
         color: rgba(255, 255, 255, 0.6);
         transform: scale(0.8); }
     .mine-change .change div.xz:nth-of-type(1) {
-      background: url("../imgs/d6/d6_03.png") no-repeat 0 0;
+      background: url("../../../imgs/d6/d6_03.png") no-repeat 0 0;
       background-size: 100%;
       float: left;
       position: absolute;
@@ -379,7 +379,7 @@ p, b, i, div, span, input, a {
       margin: auto;
       left: 0.08rem; }
     .mine-change .change div.xz:nth-of-type(2) {
-      background: url("../imgs/d6/d6_03.png") no-repeat 0 0;
+      background: url("../../../imgs/d6/d6_03.png") no-repeat 0 0;
       background-size: 100%;
       float: left;
       position: absolute;
@@ -405,7 +405,7 @@ p, b, i, div, span, input, a {
     text-align: center;
     margin: auto;
     color: #fff;
-    background-image: url("../imgs/header/h_03.png");
+    background-image: url("../../../imgs/header/h_03.png");
     background-position: center 0.55rem;
     background-repeat: no-repeat; }
     .bookPage-header .mine-header-title h3 {
@@ -426,6 +426,7 @@ p, b, i, div, span, input, a {
     height: 100%;
     position: relative; }
     .bookpage-footer .bookpage-footer-m .bookpage-footer-btn {
+      display: block;
       position: absolute;
       top: 0;
       bottom: 0;
@@ -435,7 +436,7 @@ p, b, i, div, span, input, a {
       margin: auto;
       width: 1.4rem;
       height: 0.51rem;
-      background: url("../imgs/e4/e4_07.png") no-repeat center center;
+      background: url("../../../imgs/e4/e4_07.png") no-repeat center center;
       background-size: 100%;
       color: #454545;
       font-size: 0.2rem;
@@ -455,7 +456,7 @@ p, b, i, div, span, input, a {
     bottom: 0;
     margin: auto;
     right: 1rem;
-    background: url("../imgs/f1/f1_06.png") no-repeat center center;
+    background: url("../../../imgs/f1/f1_06.png") no-repeat center center;
     background-size: 100%; }
   .reading-header .reading-list {
     width: 5.71rem;
@@ -466,7 +467,7 @@ p, b, i, div, span, input, a {
     left: 0;
     right: 0;
     margin: auto;
-    background: url("../imgs/c1/c1_03.png") no-repeat 0 0;
+    background: url("../../../imgs/c1/c1_03.png") no-repeat 0 0;
     background-size: 100%; }
   .reading-header .classify {
     width: 1.65rem;
@@ -483,15 +484,15 @@ p, b, i, div, span, input, a {
       color: rgba(255, 255, 255, 0.6);
       transform: scale(0.8); }
   .reading-header .classify:nth-of-type(1) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.1rem; }
   .reading-header .classify:nth-of-type(2) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.35rem; }
   .reading-header .classify:nth-of-type(3) {
-    background: url("../imgs/c1/c_03.png") no-repeat center center;
+    background: url("../../../imgs/c1/c_03.png") no-repeat center center;
     background-size: 100%;
     margin-left: 0.2rem; }
   .reading-header .reading-header-title {
@@ -506,7 +507,7 @@ p, b, i, div, span, input, a {
     text-align: center;
     margin: auto;
     color: #fff;
-    background-image: url("../imgs/header/h_03.png");
+    background-image: url("../../../imgs/header/h_03.png");
     background-position: center 0.55rem;
     background-repeat: no-repeat; }
     .reading-header .reading-header-title h3 {
