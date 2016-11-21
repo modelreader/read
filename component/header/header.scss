@@ -1,16 +1,17 @@
-@import 'base';
+@import '../../css/dev/base';
 //iconfont
 @font-face {
   font-family: 'headerfont';
-  src: url('../fonts/headerfont/iconfont.eot');
-  src: url('../fonts/headerfont/iconfont.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/headerfont/iconfont.woff') format('woff'),
-  url('../fonts/headerfont/iconfont.ttf') format('truetype'),
-  url('../fonts/headerfont/iconfont.svg#iconfont') format('svg');
+  src: url('../../fonts/headerfont/iconfont.eot');
+  src: url('../../fonts/headerfont/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../../fonts/headerfont/iconfont.woff') format('woff'),
+  url('../../fonts/headerfont/iconfont.ttf') format('truetype'),
+  url('../../fonts/headerfont/iconfont.svg#iconfont') format('svg');
 }
 //登录页面header
 .header-logo{
     background: #29a6dc;
+    
 }
 .login-header{
     width: 100%;

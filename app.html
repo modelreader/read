@@ -1,9 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="reader">
 	<head>
 		<meta charset="utf-8">
-		<title></title>
+		<title>reader</title>
+		<script src="js/angular.min.js"></script>
+		<script src="js/angular-route.min.js"></script>
+		<script src="js/jquery.min.js"></script>
+		
 	</head>
 	<body>
+		<ng-view></ng-view>
 	</body>
+	<script src="app.js"></script>
+	<script src="config.js"></script>
 </html>
