@@ -90,12 +90,9 @@ body {
       margin-right: auto;
       margin-bottom: 0.34rem;
       overflow: hidden;
-      background: pink;
-      border: none; }
-      #my .info .tou img {
-        width: 1.84rem;
-        height: 1.84rem;
-        border: none; }
+      border: none;
+      background: url("../../../imgs/d1/d1_15.png") 0 0 no-repeat; 
+      background-size: 100%; }
     #my .info .uesrname {
       width: 100%;
       height: 0.5rem;
@@ -182,10 +179,9 @@ body {
         width: 0.09rem;
         height: 0.17rem;
         margin-left: 0.15rem;
-        margin-top: 0.2rem; }
-        #my .ul li .zhuan img {
-          width: 100%;
-          height: 100%; }
+        margin-top: 0.36rem;
+        background: url("../../../imgs/d1/d1_53.png") 0 0 no-repeat; 
+        background-size: 100%;}
     #my .ul .llast {
       border: none; }
   #my .BookCity-footer {
@@ -206,4 +202,4 @@ body {
     display: none;
     box-shadow: 0 0 0 10rem rgba(0, 0, 0, 0.5);
     background-size: 100%;
-    background-image: url("../../../imgs/d10/d10_03.png"); }
+    background-image: url("../../../imgs/d1/d10_03.png"); }

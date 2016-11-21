@@ -1,5 +1,5 @@
 app.config(['$routeProvider',function($routeProvider){
-	$routeProvide.when('/',{
+	$routeProvider.when('/',{
 		templateUrl:'pages/login/loginstart/login.html',
 		controller:'loginCtrl'
 	}).when('/register',{
