@@ -293,7 +293,7 @@ p, b, i, div, span, input, a {
       transform: scale(0.8); }
 
 .BookCity-footer {
-  width: 100%;
+  width: 7.5rem;
   height: 1rem;
   background: #151c2b; }
   .BookCity-footer .bookChange {
@@ -314,13 +314,18 @@ p, b, i, div, span, input, a {
       text-align: center;
       display: block;
       width: 100%; }
+<<<<<<< HEAD
   .BookCity-footer .bookChange:nth-of-type(1) {
     background-image: url("../../../imgs/c3/c1_xz.png");
+=======
+  .BookCity-footer .bookChange:nth-of-type(2) {
+    background-image: url("../imgs/c3/c1_xz.png");
+>>>>>>> ecd0a644ca1ace6b696b50dc8a29917e634fd2f1
     border-left: 1px solid #717171;
     border-right: 1px solid #717171; }
 
 .mine-header {
-  width: 100%;
+  width: 7.5rem;
   height: 1rem;
   position: relative;
   background: #29a6dc; }

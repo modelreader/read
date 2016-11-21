@@ -74,7 +74,8 @@ p, b, i, div, span, input, a {
 
 body {
   background: #fafafa; }
-
+  .data{
+   width: 7.5rem; }
 #data {
   width: 7.5rem; }
   #data .ul {
