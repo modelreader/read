@@ -31,14 +31,13 @@ body{
   box-sizing:border-box;
 }
 /*图片路径*/
-$img-path:'../imgs/';
+$img-path:'../../../imgs/';
 
 /*调试块*/
 @mixin box{
 	border:1px solid #000;
 	background:red;
 }
-
 /*上下居中*/
 @mixin  top-bottom{
 	position:absolute;
