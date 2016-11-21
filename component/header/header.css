@@ -293,7 +293,7 @@ p, b, i, div, span, input, a {
       transform: scale(0.8); }
 
 .BookCity-footer {
-  width: 100%;
+  width: 7.5rem;
   height: 1rem;
   background: #151c2b; }
   .BookCity-footer .bookChange {
@@ -320,7 +320,7 @@ p, b, i, div, span, input, a {
     border-right: 1px solid #717171; }
 
 .mine-header {
-  width: 100%;
+  width: 7.5rem;
   height: 1rem;
   position: relative;
   background: #29a6dc; }
