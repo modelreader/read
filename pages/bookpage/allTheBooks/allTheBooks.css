@@ -99,7 +99,7 @@ p, b, i, div, span, input, a {
       text-align: center;
       margin: auto;
       color: #fff;
-      background-image: url("../imgs/header/h_03.png");
+      background-image: url("../../../imgs/header/h_03.png");
       background-position: center 0.55rem;
       background-repeat: no-repeat; }
       #allTheBooks-header .bookPage-header .mine-header-title h3 {
@@ -159,7 +159,7 @@ p, b, i, div, span, input, a {
       width: 0.8rem;
       height: 0.8rem;
       border-radius: 50%;
-      background-image: url("../imgs/e1/c4_31.png");
+      background-image: url("../../../imgs/e1/c4_31.png");
       background-repeat: no-repeat;
       background-size: 0.81rem 0.80rem;
       background-position: 0 0;
@@ -167,7 +167,7 @@ p, b, i, div, span, input, a {
       _margin-left: 0.10rem;
       margin-top: 0.25rem; }
     #allTheBooks .review-listL .img2 {
-      background-image: url("../imgs/e1/c4_46.png");
+      background-image: url("../../../imgs/e1/c4_46.png");
       background-size: 0.80rem 0.80rem; }
   #allTheBooks .review-listR {
     width: 5.63rem;
@@ -217,7 +217,7 @@ p, b, i, div, span, input, a {
           width: 0.35rem;
           height: 0.35rem;
           border-radius: 50%;
-          background-image: url("../imgs/e1/c4_39.png");
+          background-image: url("../../../imgs/e1/c4_39.png");
           background-repeat: no-repeat;
           background-position: center center;
           box-shadow: 0 0 0.1rem rgba(42, 126, 255, 0.13);
@@ -226,7 +226,7 @@ p, b, i, div, span, input, a {
         float: right; }
         #allTheBooks .review-listR .recode .recodeR i {
           left: 0;
-          background-image: url("../imgs/e1/c4_42.png");
+          background-image: url("../../../imgs/e1/c4_42.png");
           background-size: 0.14rem 0.11rem; }
 
 /*footer*/
@@ -251,7 +251,7 @@ p, b, i, div, span, input, a {
       margin: auto;
       width: 1.4rem;
       height: 0.51rem;
-      background: url("../imgs/e4/e4_07.png") no-repeat center center;
+      background: url("../../../imgs/e4/e4_07.png") no-repeat center center;
       background-size: 100%;
       color: #454545;
       font-size: 0.2rem;

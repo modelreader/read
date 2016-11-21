@@ -99,7 +99,7 @@ p, b, i, div, span, input, a {
       text-align: center;
       margin: auto;
       color: #fff;
-      background-image: url("../imgs/header/h_03.png");
+      background-image: url("../../../imgs/header/h_03.png");
       background-position: center 0.55rem;
       background-repeat: no-repeat; }
       #comment-header .bookPage-header .mine-header-title h3 {
@@ -151,7 +151,7 @@ p, b, i, div, span, input, a {
       height: 0.82rem;
       float: left;
       margin-right: 0.39rem;
-      background-image: url("../imgs/e6/e5_10.png");
+      background-image: url("../../../imgs/e6/e5_10.png");
       background-position: center center;
       background-size: 0.82rem 0.82rem; }
     #comment .startLevel .start-border {
@@ -218,7 +218,7 @@ p, b, i, div, span, input, a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url("../imgs/e6/mask.png");
+  background-image: url("../../../imgs/e6/mask.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 7.50rem 13.34rem;
@@ -245,7 +245,7 @@ p, b, i, div, span, input, a {
   margin: auto;
   position: absolute;
   top: 4.70rem;
-  background-image: url("../imgs/e6/e6_03.png");
+  background-image: url("../../../imgs/e6/e6_03.png");
   background-repeat: no-repeat;
   background-position: center 0;
   background-size: 4.78rem 2.97rem;
@@ -274,7 +274,7 @@ p, b, i, div, span, input, a {
 /*评论状态-失败*/
 /*评论状态-失败*/
 .success1 {
-  background-image: url("../imgs/e5/e5_03.png");
+  background-image: url("../../../imgs/e5/e5_03.png");
   background-size: 4.78rem 2.95rem; }
 
 /*评论状态-失败*/
@@ -300,7 +300,7 @@ p, b, i, div, span, input, a {
       margin: auto;
       width: 1.4rem;
       height: 0.51rem;
-      background: url("../imgs/e4/e4_07.png") no-repeat center center;
+      background: url("../../../imgs/e4/e4_07.png") no-repeat center center;
       background-size: 100%;
       color: #454545;
       font-size: 0.2rem;

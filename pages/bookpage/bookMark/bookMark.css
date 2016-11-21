@@ -71,11 +71,66 @@ p, b, i, div, span, input, a {
 
 /*列表右边加效果*/
 /*列表右边加效果*/
+/*header*/
+#bookMark-header {
+  width: 100%;
+  height: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100; }
+  #bookMark-header .bookPage-header {
+    width: 100%;
+    height: 1rem;
+    position: relative;
+    background: #29a6dc; }
+    #bookMark-header .bookPage-header .mine-header-title {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      min-width: 3rem;
+      height: 100%;
+      text-align: center;
+      margin: auto;
+      color: #fff;
+      background-image: url("../../../imgs/header/h_03.png");
+      background-position: center 0.55rem;
+      background-repeat: no-repeat; }
+      #bookMark-header .bookPage-header .mine-header-title h3 {
+        font-size: 0.34rem;
+        margin-top: 0.03rem; }
+      #bookMark-header .bookPage-header .mine-header-title p {
+        font-size: 0.12rem;
+        margin-top: 0.1rem;
+        color: rgba(255, 255, 255, 0.6);
+        transform: scale(0.8); }
+  #bookMark-header .back-circle-l {
+    width: 0.44rem;
+    height: 0.44rem;
+    border-radius: 50%;
+    border: 0.02rem solid #076cbe;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: #fff;
+    left: 0.25rem;
+    font-family: 'headerfont';
+    line-height: 0.38rem;
+    text-align: center;
+    font-size: 0.16rem;
+    color: #73c4e7; }
+
+/*header*/
 #bookMarks {
   width: 7.5rem;
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
+  margin-top: 1rem;
   /*笔记条数*/
   /*笔记条数*/
   /*我的书签*/
@@ -117,7 +172,7 @@ p, b, i, div, span, input, a {
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: url("../imgs/e7/f3_03.png");
+    background-image: url("../../../imgs/e7/f3_03.png");
     background-repeat: no-repeat;
     background-size: 7.49rem 1.20rem;
     background-position: 0rem 0rem;
@@ -144,7 +199,7 @@ p, b, i, div, span, input, a {
       left: 0;
       right: 0;
       margin: auto;
-      background-image: url("../imgs/e7/e7_07.png");
+      background-image: url("../../../imgs/e7/e7_07.png");
       background-repeat: no-repeat;
       background-size: 0.31rem 0.31rem;
       background-position: center center; }
@@ -156,7 +211,7 @@ p, b, i, div, span, input, a {
       display: block;
       width: 100%;
       height: 100%;
-      background-image: url("../imgs/e3/c4_54.png");
+      background-image: url("../../../imgs/e3/c4_54.png");
       background-repeat: no-repeat;
       background-size: 0.68rem 0.63rem;
       background-position: 0.06rem 0.09rem; }
@@ -208,7 +263,7 @@ p, b, i, div, span, input, a {
           left: 0.08rem;
           width: 0.16rem;
           height: 0.16rem;
-          background-image: url("../imgs/e7/e7_21.png");
+          background-image: url("../../../imgs/e7/e7_21.png");
           background-repeat: no-repeat;
           background-position: center center;
           background-size: 0.16rem 0.16rem; }
@@ -218,7 +273,7 @@ p, b, i, div, span, input, a {
           width: 0.25rem;
           height: 0.14rem;
           left: 0.01rem;
-          background-image: url("../imgs/e7/e7_4.png");
+          background-image: url("../../../imgs/e7/e7_4.png");
           background-size: 0.25rem 0.14rem; }
   #bookMarks .bookmark-listBom {
     width: 100%;
@@ -257,7 +312,7 @@ p, b, i, div, span, input, a {
       top: 0;
       bottom: 0;
       margin: auto;
-      background-image: url("../imgs/e3/e3_03.png");
+      background-image: url("../../../imgs/e3/e3_03.png");
       background-repeat: no-repeat;
       background-position: center center;
       background-size: 0.36rem 0.36rem; }

@@ -154,7 +154,7 @@ p, b, i, div, span, input, a {
     width: 2.74rem;
     height: 2.7rem;
     float: left;
-    background-image: url("../imgs/e1/page.png");
+    background-image: url("../../../imgs/e1/page.png");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 2.42rem 2.05rem; }
@@ -222,7 +222,7 @@ p, b, i, div, span, input, a {
       height: 0.24rem;
       float: left;
       margin-right: 0.03rem;
-      background-image: url("../imgs/e1/c4_06.png");
+      background-image: url("../../../imgs/e1/c4_06.png");
       background-repeat: no-repeat;
       background-position: -0.01rem 0.01rem;
       background-size: 1.33rem 0.22rem; }
@@ -272,13 +272,13 @@ p, b, i, div, span, input, a {
     font-size: 0.24rem;
     background-repeat: no-repeat; }
   #page .ck {
-    background-image: url("../imgs/e1/c4_15.png");
+    background-image: url("../../../imgs/e1/c4_15.png");
     background-size: 0.48rem 0.51rem;
     background-position: 0.46rem 0.08rem;
     left: 0.22rem;
     top: 0.1rem; }
   #page .jr {
-    background-image: url("../imgs/e1/c4_18.png");
+    background-image: url("../../../imgs/e1/c4_18.png");
     background-size: 0.45rem 0.47rem;
     background-position: 0.48rem 0.08rem;
     right: 0.13rem;
@@ -286,7 +286,7 @@ p, b, i, div, span, input, a {
   #page .ljyd {
     width: 2.7rem;
     height: 0.69rem;
-    background-image: url("../imgs/e1/c4_23.png");
+    background-image: url("../../../imgs/e1/c4_23.png");
     background-size: 2.70rem 0.69rem;
     background-position: 0 0;
     left: 0;
@@ -308,7 +308,7 @@ p, b, i, div, span, input, a {
     background-color: #fff;
     margin-left: 0.24rem;
     margin-bottom: 0.30rem;
-    background-image: url("../imgs/e1/c4_27.png");
+    background-image: url("../../../imgs/e1/c4_27.png");
     background-repeat: no-repeat;
     background-size: 2.92rem 0.58rem;
     background-position: 0.17rem 0.07rem; }
@@ -329,7 +329,7 @@ p, b, i, div, span, input, a {
       width: 0.8rem;
       height: 0.8rem;
       border-radius: 50%;
-      background-image: url("../imgs/e1/c4_31.png");
+      background-image: url("../../../imgs/e1/c4_31.png");
       background-repeat: no-repeat;
       background-size: 0.81rem 0.80rem;
       background-position: 0 0;
@@ -337,7 +337,7 @@ p, b, i, div, span, input, a {
       _margin-left: 0.10rem;
       margin-top: 0.25rem; }
     #page .review-listL .img2 {
-      background-image: url("../imgs/e1/c4_46.png");
+      background-image: url("../../../imgs/e1/c4_46.png");
       background-size: 0.80rem 0.80rem; }
   #page .review-listR {
     width: 5.63rem;
@@ -387,7 +387,7 @@ p, b, i, div, span, input, a {
           width: 0.35rem;
           height: 0.35rem;
           border-radius: 50%;
-          background-image: url("../imgs/e1/c4_39.png");
+          background-image: url("../../../imgs/e1/c4_39.png");
           background-repeat: no-repeat;
           background-position: center center;
           box-shadow: 0 0 0.1rem rgba(42, 126, 255, 0.13);
@@ -396,7 +396,7 @@ p, b, i, div, span, input, a {
         float: right; }
         #page .review-listR .recode .recodeR i {
           left: 0;
-          background-image: url("../imgs/e1/c4_42.png");
+          background-image: url("../../../imgs/e1/c4_42.png");
           background-size: 0.14rem 0.11rem; }
   #page .all-button-box {
     width: 100%;
@@ -412,7 +412,7 @@ p, b, i, div, span, input, a {
     font-weight: normal;
     text-align: center;
     font-size: 0.24rem;
-    background-image: url("../imgs/e1/c4_50.png");
+    background-image: url("../../../imgs/e1/c4_50.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 2.22rem 0.39rem;
@@ -447,16 +447,16 @@ p, b, i, div, span, input, a {
         display: block;
         width: 0.7rem;
         height: 0.7rem;
-        background-image: url("../imgs/e3/c4_54.png");
+        background-image: url("../../../imgs/e3/c4_54.png");
         background-repeat: no-repeat;
         background-size: 0.52rem 0.49rem;
         background-position: 0.13rem 0.10rem; }
       #page .bookmark-title .l .note-img1 {
-        background-image: url("../imgs/e3/e2_03.png");
+        background-image: url("../../../imgs/e3/e2_03.png");
         background-size: 0.54rem 0.54rem;
         background-position: 0.14rem 0.10rem; }
       #page .bookmark-title .l .similarBook-img1 {
-        background-image: url("../imgs/e2/e2_13.png");
+        background-image: url("../../../imgs/e2/e2_13.png");
         background-size: 0.51rem 0.51rem;
         background-position: 0.15rem 0.10rem; }
     #page .bookmark-title .r {
@@ -491,7 +491,7 @@ p, b, i, div, span, input, a {
       display: block;
       width: 100%;
       height: 100%;
-      background-image: url("../imgs/e3/c4_54.png");
+      background-image: url("../../../imgs/e3/c4_54.png");
       background-repeat: no-repeat;
       background-size: 0.68rem 0.63rem;
       background-position: 0.29rem 0.10rem; }
@@ -539,7 +539,7 @@ p, b, i, div, span, input, a {
           left: 0.08rem;
           width: 0.16rem;
           height: 0.16rem;
-          background-image: url("../imgs/e1/c4_39.png");
+          background-image: url("../../../imgs/e1/c4_39.png");
           background-repeat: no-repeat;
           background-position: center center;
           background-size: 0.16rem 0.16rem; }
@@ -549,7 +549,7 @@ p, b, i, div, span, input, a {
           width: 0.25rem;
           height: 0.14rem;
           left: 0.01rem;
-          background-image: url("../imgs/e2/e7_4.png");
+          background-image: url("../../../imgs/e2/e7_4.png");
           background-size: 0.25rem 0.14rem; }
   #page .bookmark-listBom {
     width: 100%;
@@ -591,7 +591,7 @@ p, b, i, div, span, input, a {
       top: 0;
       bottom: 0;
       margin: auto;
-      background-image: url("../imgs/e3/e3_03.png");
+      background-image: url("../../../imgs/e3/e3_03.png");
       background-repeat: no-repeat;
       background-position: center center;
       background-size: 0.36rem 0.36rem; }
@@ -619,7 +619,7 @@ p, b, i, div, span, input, a {
       display: block;
       width: 0.19rem;
       height: 0.07rem;
-      background-image: url("../imgs/e2/e2_07.png");
+      background-image: url("../../../imgs/e2/e2_07.png");
       background-repeat: no-repeat;
       background-position: center center;
       background-size: 0.19rem 0.07rem;
@@ -667,7 +667,7 @@ p, b, i, div, span, input, a {
         width: 0.35rem;
         height: 0.35rem;
         border-radius: 50%;
-        background-image: url("../imgs/e1/c4_39.png");
+        background-image: url("../../../imgs/e1/c4_39.png");
         background-repeat: no-repeat;
         background-position: center center;
         box-shadow: 0 0 0.1rem rgba(42, 126, 255, 0.13);
@@ -718,7 +718,7 @@ p, b, i, div, span, input, a {
       border-width: 0.02rem 0.01rem 0.02rem 0.01rem;
       border-color: #fff;
       border-style: solid;
-      background-image: url("../imgs/e2/b_18(1).png");
+      background-image: url("../../../imgs/e2/b_18(1).png");
       background-repeat: no-repeat;
       background-position: center center;
       background-size: 1.78rem 2.38rem; }
