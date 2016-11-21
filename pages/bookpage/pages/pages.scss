@@ -1,14 +1,4 @@
 @import '../../../css/dev/base';
-//iconfont
-@font-face {
-  font-family: 'headerfont';
-  src: url('../fonts/headerfont/iconfont.eot');
-  src: url('../fonts/headerfont/iconfont.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/headerfont/iconfont.woff') format('woff'),
-  url('../fonts/headerfont/iconfont.ttf') format('truetype'),
-  url('../fonts/headerfont/iconfont.svg#iconfont') format('svg');
-}
-//iconfont
 
 $margin-bottom1: 0.12rem; //我的书签标题下边距
 $height1: 1.14rem; //我的书签列表高度 
@@ -20,27 +10,7 @@ $height1: 1.14rem; //我的书签列表高度
     position: fixed;
     top: 0; 
     left: 0;
-    z-index: 100000;
-    .bookPage-header{
-        width: 100%;
-        height: 1rem;   
-        position: relative;
-        background: #29a6dc;
-    }
-    .back-circle-l{
-        width:0.44rem;
-        height:0.44rem;
-        border-radius: 50%;
-        border: 0.02rem solid #076cbe;
-        @include top-bottom;
-        background: #fff;
-        left: 0.25rem;
-        font-family: 'headerfont';
-        line-height: 0.38rem;
-        text-align: center;
-        font-size: 0.16rem;
-        color: #73c4e7;
-    }
+    z-index: 100;
 }
 
 /*头*/
