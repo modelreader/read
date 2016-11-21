@@ -85,6 +85,7 @@ $leftX:0.54rem;
     .note-count{
         @include box1(100%,0.48rem);
         background-color: #e5e5e5;
+        display: none;
         a{
             display: block;
             @include box1(100%,100%);

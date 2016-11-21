@@ -223,7 +223,8 @@ p, b, i, div, span, input, a {
   background-position: center center;
   background-size: 7.50rem 13.34rem;
   filter: blur(3px);
-  z-index: 100; }
+  z-index: 100;
+  display: none; }
 
 #mask2 {
   position: absolute;
@@ -232,11 +233,16 @@ p, b, i, div, span, input, a {
   left: 0;
   right: 0;
   background-color: rgba(0, 0, 0, 0.2);
-  z-index: 101; }
+  z-index: 101;
+  display: none; }
+
+div.show1 {
+  display: block; }
 
 /*遮罩*/
 /*评论状态-失败*/
 .fail1 {
+  display: none;
   width: 4.78rem;
   height: 2.95rem;
   border-radius: 0.05rem;
@@ -272,12 +278,12 @@ p, b, i, div, span, input, a {
     right: 0.30rem; }
 
 /*评论状态-失败*/
-/*评论状态-失败*/
+/*评论状态-成功*/
 .success1 {
   background-image: url("../../../imgs/e5/e5_03.png");
   background-size: 4.78rem 2.95rem; }
 
-/*评论状态-失败*/
+/*评论状态-成功*/
 /*footer*/
 .bookpage-footer {
   width: 100%;

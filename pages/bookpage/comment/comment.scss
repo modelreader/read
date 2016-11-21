@@ -177,6 +177,7 @@ $img-path2:'e5/';
     background-size: 7.50rem 13.34rem;
     filter: blur(3px);
     z-index: 100;
+    display: none;
 }
 #mask2{
     position: absolute;
@@ -186,12 +187,16 @@ $img-path2:'e5/';
     right: 0; 
     background-color: rgba(0,0,0,0.2);
     z-index: 101;
+    display: none;
+}
+div.show1{
+    display: block;
 }
 /*遮罩*/ 
 
 /*评论状态-失败*/
 .fail1{
-//  display: none;
+    display: none;
     @include box1(4.78rem,2.95rem);
     border-radius: 0.05rem;
     @include left-right;
@@ -225,12 +230,12 @@ $img-path2:'e5/';
 }
 /*评论状态-失败*/
 
-/*评论状态-失败*/
+/*评论状态-成功*/
 .success1{
     background-image: url($img-path+$img-path2+'e5_03.png');
     background-size: 4.78rem 2.95rem;
 }
-/*评论状态-失败*/
+/*评论状态-成功*/
 
 /*footer*/
 .bookpage-footer{

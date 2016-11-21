@@ -9,6 +9,62 @@ $img-path8:'e8/';
 $img-pathF4:'f4/';
 $img-pathF10:'f10/';
 $color1:#ec2e56;
+
+/*header*/
+#note-header{
+    width: 100%;
+    height: 1rem;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    z-index: 100;
+    .bookPage-header{
+    width: 100%;
+    height: 1rem;   
+    position: relative;
+    background: #29a6dc;
+    .mine-header-title{
+        @include center;
+        min-width: 3rem;
+        height: 100%;
+        text-align: center;
+        margin: auto;
+        color: #fff;
+        background-image: url($img-path+'header/h_03.png');
+        background-position: center 0.55rem;
+        background-repeat: no-repeat;
+//      line-height: 100%;
+        h3{
+            font-size: 0.34rem;
+            margin-top: 0.03rem;
+//          margin-bottom: 0.05rem;
+        }
+        p{
+            font-size: 0.12rem;
+            margin-top: 0.1rem;
+            color: rgba(255,255,255,0.6);
+            transform: scale(0.8);
+        }
+    }
+}
+    .back-circle-l{
+        width:0.44rem;
+        height:0.44rem;
+        border-radius: 50%;
+        border: 0.02rem solid #076cbe;
+        @include top-bottom;
+        background: #fff;
+        left: 0.25rem;
+        font-family: 'headerfont';
+        line-height: 0.38rem;
+        text-align: center;
+        font-size: 0.16rem;
+        color: #73c4e7;
+    }
+    
+}
+/*header*/
+
 #note{
 //  float: left;
     width: $width1;
@@ -20,6 +76,7 @@ $color1:#ec2e56;
     .note-count{
         @include box1(100%,0.48rem);
         background-color: #e5e5e5;
+        display: none;
         a{
             display: block;
             @include box1(100%,100%);
@@ -244,6 +301,7 @@ $color1:#ec2e56;
     background-size: 7.52rem 13.41rem;
     filter: blur(5px);
     z-index: 100;
+    display: none;
 }
 #mask4{
     position: absolute;
@@ -257,5 +315,38 @@ $color1:#ec2e56;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1.95rem 2.28rem;
+    display: none;
+}
+
+div.show2{
+    display: block;
 }
 /*遮罩*/ 
+
+/*footer*/
+.bookpage-footer{
+    width: 100%;
+    height: 1.28rem; 
+    position: fixed;
+    bottom: 0;
+    left: 0;   
+    .bookpage-footer-m{
+        width: 100%;
+        background:#151c2b;
+        height: 100%;    
+        position: relative;
+        .bookpage-footer-btn{
+            @include center;
+            margin: auto;
+            width: 1.4rem;
+            height: 0.51rem;
+            background: url($img-path+'e4/e4_07.png') no-repeat center center;
+            background-size: 100%;
+            color: #454545;
+            font-size: 0.2rem;
+            text-align: center;
+            line-height: 0.51rem;
+        }
+    }    
+}
+/*footer*/
