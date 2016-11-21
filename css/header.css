@@ -115,6 +115,7 @@ p, b, i, div, span, input, a {
   line-height: 2.02rem; }
 
 .back-circle-l {
+	display:block;
   width: 0.44rem;
   height: 0.44rem;
   border-radius: 50%;
@@ -132,6 +133,7 @@ p, b, i, div, span, input, a {
   color: #73c4e7; }
 
 .back-circle-r {
+	display:block;
   width: 0.44rem;
   height: 0.44rem;
   border-radius: 50%;
@@ -297,6 +299,7 @@ p, b, i, div, span, input, a {
   height: 1rem;
   background: #151c2b; }
   .BookCity-footer .bookChange {
+  	display:block;
     width: 33.333%;
     height: 100%;
     float: left;
@@ -314,7 +317,7 @@ p, b, i, div, span, input, a {
       text-align: center;
       display: block;
       width: 100%; }
-  .BookCity-footer .bookChange:nth-of-type(1) {
+  .BookCity-footer .bookChange:nth-of-type(2) {
     background-image: url("../imgs/c3/c1_xz.png");
     border-left: 1px solid #717171;
     border-right: 1px solid #717171; }
